@@ -160,7 +160,6 @@ async def savol10():
         print("10-xatolik:", e)
 
 
-# 🔥 MAIN
 async def main():
     try:
         await asyncio.gather(
